@@ -1,4 +1,4 @@
-# Hand_Gesture_Mouse
+# Hand_Gesture_Controlled_Mouse
 
 This project implements a hand gesture–based mouse control system using
 AI/ML and computer vision techniques.
